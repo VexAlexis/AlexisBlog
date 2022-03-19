@@ -5,3 +5,5 @@ universidad nacional
 desarrolador de software con 23 años
 
 vivo en colombia
+
+Estoy estudiando git
